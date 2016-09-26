@@ -1,0 +1,6 @@
+Javascript로 구성된 node를 조금 더 편하게 백엔드 구성하고자 만든 프레임워크
+先 . Npm init 후 package.json / node_modules 등을 만든다.
+사용 방식
+Npm install ?save express
+Npm install ?g nodemon
+Require(“express”); 로 가져와 쓰기!
